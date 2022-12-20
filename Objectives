@@ -1,0 +1,19 @@
+Preface 
+
+Hi, I'm Vito Aryananda, the freshmen from Undergraduates Program Of Electro-Optical Engineering. I have been join the course of Data-Science and computer Engineering from the first semester. The reason why I chose this course is because I encouraged to learn about coding lesson and learn computer languages. I am really exicted for presenting this project, escpecially to give fun for coders. Hangman have been part of the game that developed our brainstorm ideas abilities, so I wanna make this sort of the game that present well in my final project at school.  
+
+Data Preprocessing
+
+I have looked some errors so many times, I realized that the majority of these errors focusing on Stick-man picture. The purpose is to make sure that the data could see the whenever someone uses it. The challenging part is that we need the part of system that analyzes true or false data as well as the closing fuction. For instance, " while not guessed and tries > 0: guess = input("please guess a letter or word: ").upper(); ......" . 
+
+Objectives 
+
+1. To find suitable environment for coders at the first computer learning. 
+
+2. Data Practicing for beginners. 
+
+
+Not just only using default words, I also analyzed this program may help for schools education system for their related academic topics. And this system may be used any kind of circumstances situation as well as the word list that been used could be manipulated for ideal practices. 
+
+You can see the examples at "Result.png". This png is the example of how system described and work as eductaional system.  
+
